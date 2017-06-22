@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mac01.democucthue">
+
+    <application
+        android:name=".ConfigActivity"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_main">
+
+        </activity>
+        <activity android:name=".LichCongTacActivity" />
+        <activity
+            android:name=".LichCongTacVer2Activity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LichChiTietTrongNgay" />
+        <activity
+            android:name=".VanBanDenActivity"
+            android:theme="@style/SearchBar" />
+        <activity
+            android:name=".ChiTietVanBanDenActivity"
+            android:theme="@style/SearchBar"></activity>
+        <activity android:name=".KeoThuActivity"></activity>
+        <activity
+            android:name=".ThongKeActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+
+
+        </activity>
+    </application>
+
+</manifest>

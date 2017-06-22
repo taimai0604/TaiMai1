@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">DemoCucThue</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_login">ĐĂNG NHẬP HỆ THỐNG</string>
+    <string name="title_main">CỤC THUẾ TP.HỒ CHÍ MINH</string>
+    <string name="title_main_full">CỤC THUẾ THÀNH PHỐ HỒ CHÍ MINH</string>
+    <string name="address">63 Vũ Tông Phan, Phường An Phú, Quận 2, TP Hồ Chí </string>Minh
+    <string name="link_web"><a href="http://www.hcmtax.gov">http://www.hcmtax.gov.</a></string>
+    <string name="lich_cong_tac">lịch công tác</string>
+
+    <string name="van_ban_den">Văn bản đến</string>
+    <string name="van_ban_di">Văn bản đi</string>
+    <string name="da_xem">Đã xem</string>
+    <string name="da_xu_ly">Đã xử lý</string>
+    <string name="chua_xu_ly">Chưa xử lý</string>
+
+    <string name="lich_co_quan_trong_tuan">Lịch cơ quan trong tuần</string>
+    <string name="lich_tuan">Từ 17/04/2017 đến 23/04/2017</string>
+    <string name="ngay">Ngày</string>
+    <string name="noi_dung">Nội dung</string>
+
+
+    <string name="lich_ca_nhan_theo_ngay">Lịch công tác theo ngày</string>
+    <string name="lich_ca_nhan_theo_tuan">Lịch công tác theo tuần</string>
+    <string name="lich_bo_tri_xe_theo_ngay">Lịch bố trí xe theo ngày </string>
+    <string name="lich_bo_tri_xe_theo_tuan">Lịch bố trí xe theo tuần </string>
+    <string name="lich_co_quan_theo_tuan">Lịch cơ quan theo tuần </string>
+    <string name="lich_co_quan_theo_ngay">Lịch cơ quan theo ngày</string>
+
+    <string name="xem_chi_tiet"><u>Xem chi tiết</u></string>
+
+    <string name="thoi_gian">Thời gian:</string>
+    <string name="nguoi_chu_tri">Người chủ trì:</string>
+    <string name="phan_cong_chuan_bi">Phân công chuẩn bị:</string>
+    <string name="noi_dung_lct_ngay">Nội dung:</string>
+    <string name="thanh_phan">Thành phần:</string>
+    <string name="loai_xe">Loại xe:</string>
+    <string name="dia_diem">Địa điểm:</string>
+    <string name="tinh_trang">Tinh trạng:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="vb_den_xu_ly">Văn bản đến xử lý</string>
+    <string name="so_vb_den">Sổ văn bản đến</string>
+    <string name="thong_ke_vb">Thống kê văn bản</string>
+    <string name="tra_cuu_vb">Tra cứu văn bản</string>
+
+    <string name="thong_tin_chi_tiet">Thông tin chi tiết</string>
+    <string name="chuyen_toi">Chuyển tới</string>
+    <string name="van_phong">Văn phòng</string>
+    <string name="ban_tt">Ban TT</string>
+    <string name="lanh_dao_phong">Lãnh đạo phòng</string>
+    <string name="tra_lai">Trả lại</string>
+    <string name="luan_chuyen">Luân chuyển</string>
+
+    <string name="trich_yeu">Trích yếu:</string>
+    <string name="so_den">Số đến:</string>
+    <string name="so_ky_hieu_goc">Số ký hiệu gốc:</string>
+    <string name="noi_phat_hanh">Nơi phát hành:</string>
+    <string name="cach_thuc_xu_ly">Cách thức xử lý:</string>
+    <string name="so_ngay_xu_ly_cua_phong">Số ngày xử lý của phòng:</string>
+    <string name="ngay_hop">Ngày họp:</string>
+
+
+    <string name="ic_keyboard_arrow_right">&#xe0c7;</string>
+    <string name="ic_email">&#xe087;</string>
+    <string name="ic_add">&#xe006;</string>
+    <string name="ic_close">&#xe048;</string>
+    <string name="ic_folder">&#xe09d;</string>
+    <string name="ic_keyboard_arrow_down">&#xe0c5;</string>
+
+    <!--chuyen ban tt-->
+    <string-array name="chuyen_toi">
+        <item>Văn phòng</item>
+        <item>Ban TT</item>
+        <item>Lãnh đạo phòng</item>
+    </string-array>
+    
+    <string name="chuyen_ban_tt">CHUYỂN BẢN TT</string>
+    <string name="chuyen_van_phong">CHUYỂN VĂN PHÒNG</string>
+    <string name="chuyen_lanh_dao_phong">CHUYỂN LÃNH ĐẠO PHÒNG</string>
+
+    <string name="trinh_ky_de_nghi">Trình ký - đề nghị:</string>
+    <string name="nguoi_nhan">Người nhận: (*)</string>
+    <string name="ho_va_ten">Họ và tên</string>
+
+    <string name="nguoi_xu_ly_chinh">Nguời xử lý chính:</string>
+
+    <!--chuyen phat hanh-->
+    <string name="ma_van_ban">Mã văn bản</string>
+    <string name="chuyen_phat_hanh">CHUYỂN PHÁT HÀNH</string>
+    <string name="thong_tin_xu_ly">Thông tin xử lý:</string>
+
+    <!--thong ke-->
+    <string name="tieu_chi_thong_ke">Tiêu chí thống kê</string>
+    <string name="kieu_van_ban">Kiểu văn bản:</string>
+    <string name="phong_ban">Phòng ban:</string>
+    <string name="chuyen_vien">Chuyên viên:</string>
+    <string name="so_van_ban">Sổ văn bản:</string>
+    <string name="bao_cao_ket_qua">Báo cáo kết quả thực hiện</string>
+    <string name="luu_tham_khao">Lưu tham khảo</string>
+    <string name="soan_van_ban">Soan văn bản</string>
+    <string name="tu_ngay">Từ ngày:</string>
+    <string name="den_ngay">Đến ngày:</string>
+    <string name="trong_han">Trong hạn</string>
+    <string name="qua_han">Quá hạn</string>
+    <!--test-->
+</resources>

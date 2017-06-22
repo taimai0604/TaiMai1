@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><!--<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--xmlns:app="http://schemas.android.com/apk/res-auto"--><!--xmlns:autofit="http://schemas.android.com/apk/res-auto"--><!--xmlns:tools="http://schemas.android.com/tools"--><!--android:orientation="vertical" android:layout_width="match_parent"-->
+
+<android:android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    layout_height="wrap_content"
+    layout_width="match_parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="20dp"
+    card_view:cardCornerRadius="4dp">
+
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d2e4f7"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+
+        <!-- Row 2 with 3 columns -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/thoi_gian" />
+
+
+            <TextView
+                android:id="@+id/txtThoiGian"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="12h" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/nguoi_chu_tri" />
+
+
+            <TextView
+                android:id="@+id/txtNguoiChuTri"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Uỷ ban nhân dân Quận " />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/noi_dung_lct_ngay" />
+
+
+            <TextView
+                android:id="@+id/txtNoiDung"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Đi công tác ở Long " />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="250px"
+                android:layout_height="wrap_content"
+                android:text="@string/phan_cong_chuan_bi" />
+
+
+            <TextView
+                android:id="@+id/txtPhanCong"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Đồng chí Nghĩa" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/thanh_phan" />
+
+
+            <TextView
+                android:id="@+id/txtThanhPhan"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Phó Chủ Tịch, Uỷ Viên " />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/loai_xe" />
+
+
+            <TextView
+                android:id="@+id/txtLoaiXe"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="4 chỗ " />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/dia_diem" />
+
+
+            <TextView
+                android:id="@+id/txtDiaDiem"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="110 Nguyen Hoang, Quan 2, Thanh pho Ho Chi Minh" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:text="@string/tinh_trang" />
+
+
+            <TextView
+                android:id="@+id/txtTinhTrang"
+                style="@style/textcontent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="Đang xử lý" />
+        </TableRow>
+
+    </TableLayout>
+</android:android.support.v7.widget.CardView>

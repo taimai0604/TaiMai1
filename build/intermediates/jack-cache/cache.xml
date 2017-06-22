@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac01/.android/build-cache/fdd656f1c655b53695bb4a1afc6d8288ed41897f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b74e6684048d5e4a6db0f2552241966f85c78993">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0bbe3735536d4cd7e1b366062c6f0ebd3045eca9.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/56ca9c3dee9167f60e9bcb0340b26e9a7beebafb/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c3a57c388d653548139c57415b40d5a07cfe983c.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-5fb7fd67267f9be4c740467019825f90a18fe5c0.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/75bcb0a2ba62af5f68865253d817fd27487fa880/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-da111041f30f2a42dd448c7a1ccc3c4a7f6e1666.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/5bb62f106d21f69f01bee3bb24fa883ee229b248/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-45f79351f38dac5b8f8295bcd409f014f96fa4cd.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/116846fd35faca7a290aae9b61f2c80057d5e2dd/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-17e7a0110f0035e0f50cbfbee38420fb386f47ad.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/823d138ef916bc137d4472961a6ae44034ad75d7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7d9cbc8427398554890a34096c890a5c6d5b8889.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/58985ba790fa6657a604c41434b27b9db2354e0d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-345a78a80f3b95fefe296e09aa72ba357805d9be.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/5a3cd433e7cbbfd9dd42a56042575a9dfac9cdac/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1b2d82c7cf901275dc7e0a38c1ed117e91b90e86.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/f1993795e8a8550a2accb6f5e1950390a88ab6b2/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4cedb14187be0bb5222b001f2323284f1b22157a">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-381f46ee35cf9e979963a0ad43dfc431d95d0cac.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/45bb78f723538c72ecf432d7987ee6e113a782a4/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-efd6ed2ef61e593eeabddd60f25c3a6909a865a7.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-71c908ed869c4031bfa37313a5606675b9dcbd7d.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/e95628daa9ea0c77b835e60c919770b44fe91ca0/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0e7ed8068955eab69512b22b86d01aa74c5205fa.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/39209693101e110341a02ec68399ee3835cc34d5/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7baae959c7462cdb52bab2c2344505dce3c85ba1.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/e65f083df385a1fd6db36e4066222d994a78fefb/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8cedc62d4331434f2a0d31dbed24f48234f663a6.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-7de934321c3eaa56e50cd01d3b71c24ae289d324.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/e83901d215d61501f40f1a782c9cbfdb3d05c713/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2415302262cb652a5b6722ecb60302fefcea0b60.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.3.1/bacd2ccd9a7f55c4205e02ad4d9183813d0bdcc3/realm-annotations-3.3.1.jar"
+        revision="25.0.2"
+        sha1="bacd2ccd9a7f55c4205e02ad4d9183813d0bdcc3">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/realm-annotations-3.3.1-351bfd4138a3cbb6f967b3393faf12acd5a24522.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/cb34a7644ed83009b101b019843b17f55c307fb0/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-04d12d7d15aea893ff9778b5c1b80b2c7db92369.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/615850d1e2937054c5f48f0228e5c47a9d63103c/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="07d6ee506b0d643cac58d5f1a514a802d359dc87">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7a825ff3e79aeab6bf8e0cd52e3aa8a72aaf7d68.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/916fe0131815c274042469c72f38528f11ac466d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d3369da29199489199a5c49522bd4965f5c2e7ec.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/b8ca43b3f9042d3cab8429011e60f7cca934cf07/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e24c9c348e0dbd9f6f488571ceedcdf4547eb0e2.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/3b1e458dbd979632c2cbd469684e85965223f4a5/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-65b8141e0b1daec6841a3f665ed1e59bd9aca1e6.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/5d18888df646e656e1d4b3cb7efc27323103ae2b/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-88210c155c493632350e5710b47fc872b0845e33.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        revision="25.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-alpha8-93835a9ff9508eac698ec16ceec2538c7f315fac.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/c2eca1487401cb7682550ea16694b169b9b25f4d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d8c134722c1749171c0590ed01d1f2e0609cdac3.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/7132ade44954d0570ba30f089e8ea964ac759745/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-354de1e9b808e10a7f8cb26dc4718e9b1cdc9c9d.jar" />
+    </item>
+    <item
+        jar="/Users/mac01/.android/build-cache/6c0b22c270cd6434c9f5dc9cb06cd5420fcd7d09/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="88a61540b959acefad94af2e31989104091b624a">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7768e35f451d5f6661d0dd997d26ef6f32cc840e.jar" />
+    </item>
+
+</items>

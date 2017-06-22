@@ -1,0 +1,68 @@
+<com.github.clans.fab.FloatingActionMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu_red"
+    layout_height="match_parent"
+    layout_width="match_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    fab:menu_backgroundColor="#ccffffff"
+    fab:menu_colorNormal="#222222"
+    fab:menu_colorPressed="#888888"
+    fab:menu_colorRipple="#444444"
+    fab:menu_labels_ellipsize="end"
+    fab:menu_labels_singleLine="true">
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichCoQuanTheoTuan"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_mutil_user_1"
+        fab:fab_label="@string/lich_co_quan_theo_tuan" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichCoQuanTheoNgay"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_mutil_user_lct"
+        fab:fab_label="@string/lich_co_quan_theo_ngay" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichBoTriTrongTuan"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_mutil_car"
+        fab:fab_label="@string/lich_bo_tri_xe_theo_tuan" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichBoTriXeTrongNgay"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_car"
+        fab:fab_label="@string/lich_bo_tri_xe_theo_ngay" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichCongTacCaNhanTheoTuan"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_lct_ca_nhan_theo_tuan"
+        fab:fab_label="@string/lich_ca_nhan_theo_tuan" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabLichCongTacCaNhanTheoNgay"
+        style="@style/MenuButtonsSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_user_lct"
+        fab:fab_label="@string/lich_ca_nhan_theo_ngay" />
+
+</com.github.clans.fab.FloatingActionMenu>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f4e9">
+
+    <TableLayout
+        android:id="@+id/tableLayout2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+
+        android:shrinkColumns="*"
+        android:stretchColumns="*"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Row 2 with 3 columns -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/ma_van_ban" />
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="0dp"
+                android:layout_weight="1"
+                android:padding="0dp"
+                android:text="7301" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Trích yếu:" />
+
+            <TextView
+                android:id="@+id/textView21"
+                style="@style/text_sub"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="0dp"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:padding="5dp"
+                android:text="Du thao quyet dinh kien toan ban chi dao va2 to chuyen vien giup ban chi dao xay dung ket hoat" />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_span="2"
+                android:text="@string/thong_tin_xu_ly" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_span="2"
+                android:background="#fff"
+                android:gravity="top|left"
+                android:lines="4"
+                android:maxHeight="100dp"
+                android:maxLines="4"
+                android:minLines="4"
+                android:textColor="#4a4a4a"
+                android:textColorHint="#4a4a4a" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="0dp">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_span="2"
+
+                >
+
+                <!-- Row 2 with 3 columns -->
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        style="@style/boldtext"
+                        android:layout_width="250px"
+                        android:layout_height="wrap_content"
+                        android:text="Ngay gio chuyen:"
+                        android:textStyle="normal" />
+
+
+                    <TextView
+                        style="@style/boldtext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:text="3:41  26/4/2017" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        style="@style/boldtext"
+                        android:layout_width="250px"
+                        android:layout_height="wrap_content"
+                        android:text="Nguoi chuyen:"
+                        android:textStyle="normal" />
+
+
+                    <TextView
+                        style="@style/boldtext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:text="Dang Thi Minh Phuong" />
+                </TableRow>
+
+            </TableLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="0dp">
+
+
+            <TextView
+                style="@style/boldtext"
+                android:layout_width="250px"
+                android:layout_height="wrap_content"
+                android:layout_span="2"
+                android:text="@string/nguoi_nhan" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <RadioGroup
+        android:id="@+id/rgNguoiNhan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout2">
+
+        <RadioButton
+            android:id="@+id/radiobtnexclnt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Excellent"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/radiobtngood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Good"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/radiobtnavg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Average"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/radiobtnpoor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Poor"></RadioButton>
+    </RadioGroup>
+
+</android.support.constraint.ConstraintLayout>
