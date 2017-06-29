@@ -210,8 +210,7 @@ public class LoginActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         if(isLogin()){
-            Intent myIntent = new Intent(getApplicationContext(), MainActivity.class);
-            startActivity(myIntent);
+           finish();
         }
     }
 }

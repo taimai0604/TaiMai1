@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a50b1f1124edf2ba829b484502ac160ab37b7ca9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/mac01/.android/build-cache/fdd656f1c655b53695bb4a1afc6d8288ed41897f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b74e6684048d5e4a6db0f2552241966f85c78993">
         <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bbe3735536d4cd7e1b366062c6f0ebd3045eca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.0/73ccf14fba19ce2190297ac801579f3a85f1c0e8/logging-interceptor-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73ccf14fba19ce2190297ac801579f3a85f1c0e8">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.0_bb6e96678bdc1314edb64b4104c03fa5c138d87f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,12 +30,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_849829c785879a9cd9eadab0b83385e6f7d91622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_9ff2ba98d59934bff3fff633d65983d0727c2396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="66f475f30d4019f78fd64639f0bbcbd6a2539e04">
+        sha1="e8717f43e626cf16fccb3e4c94ac649594d9abbc">
         <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e6e2b34d84db499e5edf0e9f08a1ca438afee90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_51725271fa25d2c6e2a76a21b6b9b9d110aeed16/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -45,6 +81,33 @@
         revision="25.0.2"
         sha1="a46c277098d453b4886db28568d627c283e53a04">
         <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3369da29199489199a5c49522bd4965f5c2e7ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a50b1f1124edf2ba829b484502ac160ab37b7ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_82b5fa070b1bf4f0a41e1e37d64828ef659c3398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac01/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/mac01/Documents/Tai.Mai/android/code/DemoCucThue/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_1159612c817c8f7d126d876b7d524ed0694f303a/classes.dex" />
     </item>
 
 </items>

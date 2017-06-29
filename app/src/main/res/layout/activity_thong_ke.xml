@@ -71,6 +71,7 @@
                 android:textSize="14sp" />
 
             <TableLayout
+                android:id="@+id/tbThongKe"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -84,27 +85,29 @@
 
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="wrap_content"
                         android:text="" />
 
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="wrap_content"
                         android:text="" />
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="wrap_content"
                         android:layout_span="2"
                         android:gravity="center"
+                        android:textColor="#fff"
                         android:text="@string/chua_xu_ly" />
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="wrap_content"
                         android:layout_span="2"
+                        android:textColor="#fff"
                         android:gravity="center"
                         android:text="@string/da_xu_ly" />
 
@@ -116,106 +119,63 @@
 
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
                         android:gravity="center"
                         android:padding="20px"
                         android:textSize="12sp"
+                        android:textColor="#fff"
                         android:text="STT" />
 
 
                     <TextView
                         android:layout_width="50dp"
                         android:layout_height="50dp"
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:gravity="center"
                         android:padding="20px"
+                        android:textColor="#fff"
                         android:text="Tên" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="match_parent"
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:gravity="center"
+                        android:textColor="#fff"
                         android:text="@string/trong_han" />
 
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="20px"
+                        android:textColor="#fff"
                         android:text="@string/qua_han" />
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:gravity="center"
                         android:padding="20px"
+                        android:textColor="#fff"
                         android:text="@string/trong_han" />
 
 
                     <TextView
-                        android:background="@drawable/border"
+                        android:background="@drawable/border_table_thong_ke"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:gravity="center"
+                        android:textColor="#fff"
                         android:text="@string/qua_han" />
 
                 </TableRow>
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
-
-
-                    <TextView
-                        android:layout_height="50dp"
-                        android:layout_width="50dp"
-                        android:gravity="center"
-                        android:padding="20px"
-                        android:text="1" />
-
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:padding="20px"
-                        android:text="VAN PHONG" />
-
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="match_parent"
-                        android:gravity="center"
-                        android:text="14" />
-
-
-                    <TextView
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="center"
-                        android:padding="20px"
-                        android:text="0" />
-
-                    <TextView
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="center"
-                        android:padding="20px"
-                        android:text="0" />
-
-
-                    <TextView
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:gravity="center"
-                        android:text="0" />
-
-                </TableRow>
             </TableLayout>
         </LinearLayout>
     </ScrollView>

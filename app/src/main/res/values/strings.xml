@@ -81,7 +81,7 @@
         <item>Ban TT</item>
         <item>Lãnh đạo phòng</item>
     </string-array>
-    
+
     <string name="chuyen_ban_tt">CHUYỂN BẢN TT</string>
     <string name="chuyen_van_phong">CHUYỂN VĂN PHÒNG</string>
     <string name="chuyen_lanh_dao_phong">CHUYỂN LÃNH ĐẠO PHÒNG</string>
